@@ -1,4 +1,4 @@
-package org.daurim.authlab.auth.config;
+package authlab.feature.auth.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
